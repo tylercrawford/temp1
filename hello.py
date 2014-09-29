@@ -1,4 +1,7 @@
 # Tyler Crawford
 #tjc4jc@virginia.edu
 
-print('Hello')
+def greeting(msg):
+    print(msg);
+
+greeting('Hello')
